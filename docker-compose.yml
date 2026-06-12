@@ -1,0 +1,52 @@
+version: "3.8"
+
+services:
+  # --- CRM Backend ---
+  backend:
+    build: ./backend
+    ports:
+      - "8000:8000"
+    environment:
+      - OPENROUTER_API_KEY=${OPENROUTER_API_KEY}
+      - OPENROUTER_MODEL=${OPENROUTER_MODEL:-google/gemini-2.0-flash-exp:free}
+      - MOCK_CHANNEL_URL=http://mock_channel:8001
+      - DATABASE_URL=sqlite:///./xeno_crm.db
+    depends_on:
+      - mock_channel
+    networks:
+      - xeno_network
+    volumes:
+      - ./backend:/app
+    restart: unless-stopped
+
+  # --- Mock Channel Service (SEPARATE service per assignment requirement) ---
+  mock_channel:
+    build: ./mock_channel_service
+    ports:
+      - "8001:8001"
+    environment:
+      - CALLBACK_URL=http://backend:8000/api/webhook/callback
+      - MIN_DELAY=2
+      - MAX_DELAY=10
+    networks:
+      - xeno_network
+    volumes:
+      - ./mock_channel_service:/app
+    restart: unless-stopped
+
+  # --- Frontend ---
+  frontend:
+    build: ./frontend
+    ports:
+      - "3000:3000"
+    environment:
+      - NEXT_PUBLIC_API_URL=http://localhost:8000
+    depends_on:
+      - backend
+    networks:
+      - xeno_network
+    restart: unless-stopped
+
+networks:
+  xeno_network:
+    driver: bridge

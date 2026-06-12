@@ -1,0 +1,2590 @@
+{
+  "customers": [
+    {
+      "id": "3a1d3506-1301-4acd-aa56-8a3dceaddbfe",
+      "name": "Rohan Singh",
+      "email": "rohan.singh@placeholder.com",
+      "phone": "+918051802512",
+      "city": "Bangalore",
+      "created_at": "2023-04-03",
+      "total_spent": 11308.96,
+      "order_count": 2,
+      "last_order_date": "2025-04-16"
+    },
+    {
+      "id": "6da898e0-1c15-47e5-a401-52fec536b84d",
+      "name": "Atharva Singh",
+      "email": "atharva.singh@gmail.com",
+      "phone": "+919342331444",
+      "city": "Mumbai",
+      "created_at": "2024-05-14",
+      "total_spent": 9598.11,
+      "order_count": 3,
+      "last_order_date": "2024-07-01"
+    },
+    {
+      "id": "28285f48-7ad5-4932-a412-24c7ea352925",
+      "name": "Aarav Gupta",
+      "email": "aarav.gupta@protonmail.com",
+      "phone": "+919170484433",
+      "city": "Jaipur",
+      "created_at": "2022-02-24",
+      "total_spent": 17507.53,
+      "order_count": 3,
+      "last_order_date": "2025-03-24"
+    },
+    {
+      "id": "d5d7b295-4093-49f2-8c44-668442d8528a",
+      "name": "Reyansh Kapoor",
+      "email": "reyansh.kapoor@protonmail.com",
+      "phone": "+918929338154",
+      "city": "Kochi",
+      "created_at": "2023-07-24",
+      "total_spent": 19869.34,
+      "order_count": 4,
+      "last_order_date": "2024-12-21"
+    },
+    {
+      "id": "86aba39e-3413-484f-b24a-33ae57dc1f2a",
+      "name": "Nisha Sharma",
+      "email": "nisha.sharma@hotmail.com",
+      "phone": "+917685731524",
+      "city": "Chennai",
+      "created_at": "2023-11-28",
+      "total_spent": 26441.96,
+      "order_count": 6,
+      "last_order_date": "2025-08-08"
+    },
+    {
+      "id": "d68a29e0-0618-4cc5-9960-3ed619e5bae0",
+      "name": "Arjun Reddy",
+      "email": "arjun.reddy@gmail.com",
+      "phone": "+918445662585",
+      "city": "Pune",
+      "created_at": "2022-07-09",
+      "total_spent": 22940.29,
+      "order_count": 6,
+      "last_order_date": "2025-05-27"
+    },
+    {
+      "id": "bebe1c66-657e-4036-93f8-f222933e2159",
+      "name": "Vihaan Chopra",
+      "email": "vihaan.chopra@outlook.com",
+      "phone": "+919592983555",
+      "city": "Goa",
+      "created_at": "2022-03-30",
+      "total_spent": 16026.81,
+      "order_count": 3,
+      "last_order_date": "2025-07-14"
+    },
+    {
+      "id": "e3554cfa-b585-4466-82a5-14dcaaf9bec2",
+      "name": "Aanya Kapoor",
+      "email": "aanya.kapoor@protonmail.com",
+      "phone": "+917338444264",
+      "city": "Nagpur",
+      "created_at": "2023-08-24",
+      "total_spent": 8013.08,
+      "order_count": 2,
+      "last_order_date": "2023-08-08"
+    },
+    {
+      "id": "cd16e09a-699a-4ced-8077-6bc5821b0180",
+      "name": "Nisha Chopra",
+      "email": "nisha.chopra@gmail.com",
+      "phone": "+917298737106",
+      "city": "Kochi",
+      "created_at": "2023-04-12",
+      "total_spent": 20730.03,
+      "order_count": 5,
+      "last_order_date": "2025-09-06"
+    },
+    {
+      "id": "b830b74c-7271-40ac-854c-5cb413bb2255",
+      "name": "Ishaan Gupta",
+      "email": "ishaan.gupta@hotmail.com",
+      "phone": "+917433797840",
+      "city": "Ahmedabad",
+      "created_at": "2023-07-24",
+      "total_spent": 14820.1,
+      "order_count": 4,
+      "last_order_date": "2025-04-19"
+    },
+    {
+      "id": "08b0ef9c-fea0-45c3-8d8f-efd3cd750338",
+      "name": "Rohan Chopra",
+      "email": "rohan.chopra@placeholder.com",
+      "phone": "+917899825838",
+      "city": "Goa",
+      "created_at": "2023-07-01",
+      "total_spent": 16494.0,
+      "order_count": 5,
+      "last_order_date": "2025-08-15"
+    },
+    {
+      "id": "bd34f7ec-ddab-4679-a045-8b6f836c6aaa",
+      "name": "Pooja Gupta",
+      "email": "pooja.gupta@protonmail.com",
+      "phone": "+917735034881",
+      "city": "Bangalore",
+      "created_at": "2023-05-17",
+      "total_spent": 20731.74,
+      "order_count": 4,
+      "last_order_date": "2025-07-30"
+    },
+    {
+      "id": "a1e5cfa0-8ab2-45d3-a650-2296e70782cb",
+      "name": "Aanya Malhotra",
+      "email": "aanya.malhotra@protonmail.com",
+      "phone": "+919748778024",
+      "city": "Chandigarh",
+      "created_at": "2023-03-26",
+      "total_spent": 4746.2,
+      "order_count": 1,
+      "last_order_date": "2023-03-27"
+    },
+    {
+      "id": "ebcbdbac-d471-4288-bc17-5a94c34bdb4d",
+      "name": "Ananya Verma",
+      "email": "ananya.verma@outlook.com",
+      "phone": "+917137869475",
+      "city": "Chennai",
+      "created_at": "2024-04-01",
+      "total_spent": 9669.86,
+      "order_count": 1,
+      "last_order_date": "2025-04-20"
+    },
+    {
+      "id": "1865132d-a2f6-4895-abfc-031f17987842",
+      "name": "Aditya Reddy",
+      "email": "aditya.reddy@outlook.com",
+      "phone": "+919436019774",
+      "city": "Chandigarh",
+      "created_at": "2023-03-12",
+      "total_spent": 25070.79,
+      "order_count": 6,
+      "last_order_date": "2025-12-06"
+    },
+    {
+      "id": "5ab4adb6-2f15-49e3-b446-eecc95ab0746",
+      "name": "Aadhya Malhotra",
+      "email": "aadhya.malhotra@hotmail.com",
+      "phone": "+919761027762",
+      "city": "Chennai",
+      "created_at": "2022-10-20",
+      "total_spent": 19837.65,
+      "order_count": 5,
+      "last_order_date": "2025-05-03"
+    },
+    {
+      "id": "85d51ccd-4d94-4975-b65a-7912d361471e",
+      "name": "Arjun Nair",
+      "email": "arjun.nair@outlook.com",
+      "phone": "+919314889832",
+      "city": "Nagpur",
+      "created_at": "2024-05-27",
+      "total_spent": 11655.84,
+      "order_count": 4,
+      "last_order_date": "2025-02-05"
+    },
+    {
+      "id": "a718d1ab-0bc8-4c7c-922b-631c26aef7eb",
+      "name": "Riya Malhotra",
+      "email": "riya.malhotra@protonmail.com",
+      "phone": "+917594130308",
+      "city": "Delhi",
+      "created_at": "2024-10-07",
+      "total_spent": 18510.48,
+      "order_count": 4,
+      "last_order_date": "2024-10-27"
+    },
+    {
+      "id": "50b4fe09-b5a8-42cf-b82a-206e681208c7",
+      "name": "Advait Verma",
+      "email": "advait.verma@yahoo.com",
+      "phone": "+917656448479",
+      "city": "Lucknow",
+      "created_at": "2024-05-14",
+      "total_spent": 24864.93,
+      "order_count": 5,
+      "last_order_date": "2025-02-25"
+    },
+    {
+      "id": "246b470e-3e25-4e7f-9e8c-39b62aa05685",
+      "name": "Aditya Malhotra",
+      "email": "aditya.malhotra@protonmail.com",
+      "phone": "+919010258946",
+      "city": "Jaipur",
+      "created_at": "2023-05-30",
+      "total_spent": 14420.53,
+      "order_count": 2,
+      "last_order_date": "2025-02-07"
+    },
+    {
+      "id": "dffb4b5b-22cc-4298-8ae5-7a77ac5d65d0",
+      "name": "Rohan Iyer",
+      "email": "rohan.iyer@hotmail.com",
+      "phone": "+917679282378",
+      "city": "Jaipur",
+      "created_at": "2022-01-07",
+      "total_spent": 22522.87,
+      "order_count": 7,
+      "last_order_date": "2025-04-23"
+    },
+    {
+      "id": "79965879-dc88-40a8-a3ca-73db3f13af51",
+      "name": "Advait Patel",
+      "email": "advait.patel@outlook.com",
+      "phone": "+917457031004",
+      "city": "Lucknow",
+      "created_at": "2024-11-05",
+      "total_spent": 0,
+      "order_count": 0,
+      "last_order_date": ""
+    },
+    {
+      "id": "0689d8ca-c4dd-411e-ba2a-b666b2aeba2f",
+      "name": "Reyansh Kumar",
+      "email": "reyansh.kumar@protonmail.com",
+      "phone": "+917693847829",
+      "city": "Nagpur",
+      "created_at": "2024-12-22",
+      "total_spent": 39571.55,
+      "order_count": 9,
+      "last_order_date": "2025-10-17"
+    },
+    {
+      "id": "1ccd900f-9a5a-409a-bb1d-1f45ca28a323",
+      "name": "Aarav Banerjee",
+      "email": "aarav.banerjee@gmail.com",
+      "phone": "+917083651970",
+      "city": "Nagpur",
+      "created_at": "2024-01-14",
+      "total_spent": 6999.11,
+      "order_count": 1,
+      "last_order_date": "2023-11-08"
+    },
+    {
+      "id": "c872e166-cd95-4b1a-ac84-b5b42cf9d06c",
+      "name": "Kavya Mehta",
+      "email": "kavya.mehta@protonmail.com",
+      "phone": "+918034535593",
+      "city": "Delhi",
+      "created_at": "2022-06-11",
+      "total_spent": 6818.35,
+      "order_count": 1,
+      "last_order_date": "2025-06-19"
+    },
+    {
+      "id": "76b5a6cc-eb29-43cd-8e33-c2def3a727c2",
+      "name": "Atharva Rao",
+      "email": "atharva.rao@yahoo.com",
+      "phone": "+919287955558",
+      "city": "Chandigarh",
+      "created_at": "2022-09-20",
+      "total_spent": 33366.08,
+      "order_count": 6,
+      "last_order_date": "2025-10-11"
+    },
+    {
+      "id": "a38361dc-e178-434e-8b8b-f2538b69762e",
+      "name": "Kabir Chopra",
+      "email": "kabir.chopra@hotmail.com",
+      "phone": "+919222971316",
+      "city": "Hyderabad",
+      "created_at": "2022-09-05",
+      "total_spent": 23087.69,
+      "order_count": 3,
+      "last_order_date": "2024-08-06"
+    },
+    {
+      "id": "bcb884a2-c62a-43d9-aebc-fe2a01c06231",
+      "name": "Ayaan Gupta",
+      "email": "ayaan.gupta@protonmail.com",
+      "phone": "+919526766690",
+      "city": "Lucknow",
+      "created_at": "2023-04-17",
+      "total_spent": 21190.89,
+      "order_count": 6,
+      "last_order_date": "2025-12-09"
+    },
+    {
+      "id": "18e93bd6-9def-4019-a61a-7d214279f00d",
+      "name": "Ayaan Sharma",
+      "email": "ayaan.sharma@gmail.com",
+      "phone": "+917289482182",
+      "city": "Delhi",
+      "created_at": "2023-11-08",
+      "total_spent": 18860.22,
+      "order_count": 4,
+      "last_order_date": "2025-12-23"
+    },
+    {
+      "id": "20d240d2-66be-439b-969d-ad273c84916f",
+      "name": "Ira Nair",
+      "email": "ira.nair@yahoo.com",
+      "phone": "+919084839399",
+      "city": "Goa",
+      "created_at": "2022-09-28",
+      "total_spent": 16845.65,
+      "order_count": 4,
+      "last_order_date": "2024-05-07"
+    },
+    {
+      "id": "5ef2f0e8-e2bd-41e1-bce3-481de4a06f9f",
+      "name": "Pooja Agarwal",
+      "email": "pooja.agarwal@hotmail.com",
+      "phone": "+918043665192",
+      "city": "Hyderabad",
+      "created_at": "2024-04-13",
+      "total_spent": 11885.19,
+      "order_count": 4,
+      "last_order_date": "2025-12-14"
+    },
+    {
+      "id": "ed5c7472-2216-433d-95df-1cfa1af815a7",
+      "name": "Vihaan Singh",
+      "email": "vihaan.singh@hotmail.com",
+      "phone": "+918521696479",
+      "city": "Ahmedabad",
+      "created_at": "2024-04-21",
+      "total_spent": 2420.82,
+      "order_count": 1,
+      "last_order_date": "2023-08-21"
+    },
+    {
+      "id": "fea3d8cc-0a22-4622-8aed-541fc690159f",
+      "name": "Nisha Verma",
+      "email": "nisha.verma@gmail.com",
+      "phone": "+919775320897",
+      "city": "Pune",
+      "created_at": "2022-05-05",
+      "total_spent": 13424.9,
+      "order_count": 3,
+      "last_order_date": "2025-09-18"
+    },
+    {
+      "id": "4dcaae12-3b78-4d08-8712-59969dd75efd",
+      "name": "Atharva Iyer",
+      "email": "atharva.iyer@yahoo.com",
+      "phone": "+917469306919",
+      "city": "Hyderabad",
+      "created_at": "2023-01-28",
+      "total_spent": 21993.58,
+      "order_count": 5,
+      "last_order_date": "2025-01-25"
+    },
+    {
+      "id": "5a02f223-53ca-45bc-b583-5abf0ce1c1c0",
+      "name": "Anika Das",
+      "email": "anika.das@gmail.com",
+      "phone": "",
+      "city": "Kochi",
+      "created_at": "2024-06-26",
+      "total_spent": 23712.89,
+      "order_count": 6,
+      "last_order_date": "2025-05-29"
+    },
+    {
+      "id": "a5bae75e-6e20-47e9-939a-269c62014f60",
+      "name": "Vivaan Patel",
+      "email": "vivaan.patel@outlook.com",
+      "phone": "+918676848676",
+      "city": "Chennai",
+      "created_at": "2024-07-20",
+      "total_spent": 10685.86,
+      "order_count": 2,
+      "last_order_date": "2024-01-05"
+    },
+    {
+      "id": "be36607f-771f-4e57-bc8b-b9f197374537",
+      "name": "Sara Kapoor",
+      "email": "sara.kapoor@yahoo.com",
+      "phone": "+919090237817",
+      "city": "Chennai",
+      "created_at": "2023-01-24",
+      "total_spent": 4113.93,
+      "order_count": 1,
+      "last_order_date": "2025-02-15"
+    },
+    {
+      "id": "66c710a3-960c-4277-831e-a693bf706fd0",
+      "name": "Reyansh Verma",
+      "email": "reyansh.verma@gmail.com",
+      "phone": "+919328710672",
+      "city": "Mumbai",
+      "created_at": "2023-10-05",
+      "total_spent": 12627.86,
+      "order_count": 3,
+      "last_order_date": "2025-10-02"
+    },
+    {
+      "id": "7a839592-730f-4408-892e-4d49a8b709b8",
+      "name": "Vivaan Agarwal",
+      "email": "vivaan.agarwal@yahoo.com",
+      "phone": "+919281169403",
+      "city": "Jaipur",
+      "created_at": "2022-04-27",
+      "total_spent": 14215.5,
+      "order_count": 4,
+      "last_order_date": "2025-08-21"
+    },
+    {
+      "id": "d79004a5-590e-492c-b003-83c23fd7597d",
+      "name": "Aditya Patel",
+      "email": "aditya.patel@gmail.com",
+      "phone": "+918734202799",
+      "city": "Lucknow",
+      "created_at": "2023-05-20",
+      "total_spent": 28233.45,
+      "order_count": 6,
+      "last_order_date": "2025-12-23"
+    },
+    {
+      "id": "ab66f5e6-5c23-4ae3-8c27-024d69c0daff",
+      "name": "Priya Verma",
+      "email": "priya.verma@protonmail.com",
+      "phone": "+918800557283",
+      "city": "Kolkata",
+      "created_at": "2024-12-06",
+      "total_spent": 19763.34,
+      "order_count": 5,
+      "last_order_date": "2025-09-23"
+    },
+    {
+      "id": "102d0593-84c5-48e8-a953-d61a00756079",
+      "name": "Pooja Joshi",
+      "email": "pooja.joshi@yahoo.com",
+      "phone": "+918349409434",
+      "city": "Pune",
+      "created_at": "2023-06-28",
+      "total_spent": 10587.91,
+      "order_count": 3,
+      "last_order_date": "2024-08-27"
+    },
+    {
+      "id": "8e1b9b76-9ee1-4562-a0cf-b6e6f17ce3d0",
+      "name": "Arjun Mehta",
+      "email": "arjun.mehta@gmail.com",
+      "phone": "+917311570307",
+      "city": "Lucknow",
+      "created_at": "2024-07-27",
+      "total_spent": 19232.36,
+      "order_count": 6,
+      "last_order_date": "2025-07-02"
+    },
+    {
+      "id": "e552ad5b-5dd7-4f52-b94a-d5c945c6c8d9",
+      "name": "Riya Singh",
+      "email": "riya.singh@outlook.com",
+      "phone": "",
+      "city": "Nagpur",
+      "created_at": "2022-09-29",
+      "total_spent": 18516.88,
+      "order_count": 4,
+      "last_order_date": "2025-12-16"
+    },
+    {
+      "id": "ddc2a10c-02d1-46b2-8c1e-943e76669bfa",
+      "name": "Diya Gupta",
+      "email": "diya.gupta@outlook.com",
+      "phone": "+918587106770",
+      "city": "Ahmedabad",
+      "created_at": "2022-11-20",
+      "total_spent": 22849.93,
+      "order_count": 4,
+      "last_order_date": "2025-02-02"
+    },
+    {
+      "id": "94278c8b-93fa-4690-b166-a2bd0649c2e7",
+      "name": "Kavya Kapoor",
+      "email": "kavya.kapoor@protonmail.com",
+      "phone": "+919627135980",
+      "city": "Chandigarh",
+      "created_at": "2022-01-17",
+      "total_spent": 20273.19,
+      "order_count": 5,
+      "last_order_date": "2025-12-10"
+    }
+  ],
+  "orders": [
+    {
+      "id": "8b423a3b-55f2-401f-8c3c-117e5bbca7e9",
+      "customer_id": "e3554cfa-b585-4466-82a5-14dcaaf9bec2",
+      "amount": 4332.78,
+      "items": [
+        "Notebook",
+        "Perfume"
+      ],
+      "status": "completed",
+      "created_at": "2023-08-08"
+    },
+    {
+      "id": "e15e0720-9023-43fb-92b6-555a7e04bd91",
+      "customer_id": "66c710a3-960c-4277-831e-a693bf706fd0",
+      "amount": 4141.16,
+      "items": [
+        "Notebook",
+        "Jeans",
+        "Sneakers",
+        "Socks"
+      ],
+      "status": "completed",
+      "created_at": "2024-06-24"
+    },
+    {
+      "id": "70081c29-c6b9-4fb1-8a94-12acbd2b177d",
+      "customer_id": "85d51ccd-4d94-4975-b65a-7912d361471e",
+      "amount": 3607.44,
+      "items": [
+        "Jacket",
+        "Socks",
+        "Sandals",
+        "T-Shirt"
+      ],
+      "status": "completed",
+      "created_at": "2023-11-27"
+    },
+    {
+      "id": "5a43e2e9-bc8a-4df1-b9e9-ee5a216b4120",
+      "customer_id": "4dcaae12-3b78-4d08-8712-59969dd75efd",
+      "amount": 5623.5,
+      "items": [
+        "Sunglasses",
+        "Jeans",
+        "Perfume",
+        "Belt"
+      ],
+      "status": "completed",
+      "created_at": "2023-10-31"
+    },
+    {
+      "id": "76f43262-c80c-4f99-a0f7-dd9830a65cf8",
+      "customer_id": "dffb4b5b-22cc-4298-8ae5-7a77ac5d65d0",
+      "amount": 2976.49,
+      "items": [
+        "Notebook",
+        "Backpack"
+      ],
+      "status": "returned",
+      "created_at": "2025-04-23"
+    },
+    {
+      "id": "a2aeeb20-a41b-440e-8690-7599856be488",
+      "customer_id": "1865132d-a2f6-4895-abfc-031f17987842",
+      "amount": 5806.0,
+      "items": [
+        "Belt",
+        "Perfume",
+        "Coffee Mug",
+        "Jacket"
+      ],
+      "status": "returned",
+      "created_at": "2024-02-13"
+    },
+    {
+      "id": "86da4361-7c86-4da8-a865-059d839a0a5c",
+      "customer_id": "d79004a5-590e-492c-b003-83c23fd7597d",
+      "amount": 5165.2,
+      "items": [
+        "Hoodie",
+        "Perfume",
+        "Socks"
+      ],
+      "status": "completed",
+      "created_at": "2023-09-13"
+    },
+    {
+      "id": "f4dc329f-e303-4472-8b87-aa48c11d179f",
+      "customer_id": "d79004a5-590e-492c-b003-83c23fd7597d",
+      "amount": 3538.73,
+      "items": [
+        "Sandals",
+        "Shorts"
+      ],
+      "status": "completed",
+      "created_at": "2025-02-15"
+    },
+    {
+      "id": "b459ac9c-e6d2-4964-b5ce-78a77c7455af",
+      "customer_id": "50b4fe09-b5a8-42cf-b82a-206e681208c7",
+      "amount": 8651.41,
+      "items": [
+        "Shorts",
+        "Wallet",
+        "Kurta",
+        "Jacket"
+      ],
+      "status": "pending",
+      "created_at": "2024-03-06"
+    },
+    {
+      "id": "855a586f-fe57-44a8-b163-474315dd865d",
+      "customer_id": "ddc2a10c-02d1-46b2-8c1e-943e76669bfa",
+      "amount": 2615.88,
+      "items": [
+        "Perfume"
+      ],
+      "status": "completed",
+      "created_at": "2023-12-14"
+    },
+    {
+      "id": "c16b1c69-a812-496f-b609-10077c167937",
+      "customer_id": "d68a29e0-0618-4cc5-9960-3ed619e5bae0",
+      "amount": 2443.11,
+      "items": [
+        "Coffee Mug",
+        "Headphones",
+        "Sunglasses"
+      ],
+      "status": "completed",
+      "created_at": "2024-04-26"
+    },
+    {
+      "id": "9820c5fb-688b-4198-bb08-c6e9e84a01c1",
+      "customer_id": "94278c8b-93fa-4690-b166-a2bd0649c2e7",
+      "amount": 4940.65,
+      "items": [
+        "Coffee Mug",
+        "Backpack",
+        "Hoodie",
+        "Kurta"
+      ],
+      "status": "returned",
+      "created_at": "2023-08-07"
+    },
+    {
+      "id": "4d4b7464-e759-49da-a082-0235b343ef1a",
+      "customer_id": "d79004a5-590e-492c-b003-83c23fd7597d",
+      "amount": 6235.3,
+      "items": [
+        "Kurta",
+        "Hoodie",
+        "Socks"
+      ],
+      "status": "completed",
+      "created_at": "2025-12-23"
+    },
+    {
+      "id": "55637496-cb4b-4dab-8f9a-69399fcf1114",
+      "customer_id": "85d51ccd-4d94-4975-b65a-7912d361471e",
+      "amount": 4444.32,
+      "items": [
+        "Hoodie",
+        "Saree",
+        "Coffee Mug"
+      ],
+      "status": "completed",
+      "created_at": "2024-05-21"
+    },
+    {
+      "id": "dbc1360e-9af3-4b8e-a1e8-e2ad62acec75",
+      "customer_id": "dffb4b5b-22cc-4298-8ae5-7a77ac5d65d0",
+      "amount": 748.07,
+      "items": [
+        "Sunglasses"
+      ],
+      "status": "completed",
+      "created_at": "2024-10-16"
+    },
+    {
+      "id": "1b798e2e-772c-475a-a3af-775f5039bb6c",
+      "customer_id": "8e1b9b76-9ee1-4562-a0cf-b6e6f17ce3d0",
+      "amount": 1804.41,
+      "items": [
+        "Socks"
+      ],
+      "status": "completed",
+      "created_at": "2024-03-14"
+    },
+    {
+      "id": "fde638e9-418e-4780-b57d-30dedb12a197",
+      "customer_id": "d5d7b295-4093-49f2-8c44-668442d8528a",
+      "amount": 6401.45,
+      "items": [
+        "Cap",
+        "Shorts",
+        "T-Shirt",
+        "Sandals"
+      ],
+      "status": "returned",
+      "created_at": "2024-02-28"
+    },
+    {
+      "id": "548493a0-b618-470a-ad60-8be61f7fb6e0",
+      "customer_id": "76b5a6cc-eb29-43cd-8e33-c2def3a727c2",
+      "amount": 7549.66,
+      "items": [
+        "Coffee Mug",
+        "Notebook",
+        "Socks",
+        "Saree"
+      ],
+      "status": "completed",
+      "created_at": "2024-03-27"
+    },
+    {
+      "id": "20c97cc3-6ae9-4493-b8d1-7a7261b5b804",
+      "customer_id": "08b0ef9c-fea0-45c3-8d8f-efd3cd750338",
+      "amount": 2326.69,
+      "items": [
+        "Sandals",
+        "Jacket"
+      ],
+      "status": "completed",
+      "created_at": "2025-08-15"
+    },
+    {
+      "id": "0982593e-c418-4536-8ff3-a330457ef99f",
+      "customer_id": "d68a29e0-0618-4cc5-9960-3ed619e5bae0",
+      "amount": 1652.55,
+      "items": [
+        "Kurta",
+        "Backpack"
+      ],
+      "status": "completed",
+      "created_at": "2025-05-27"
+    },
+    {
+      "id": "0944b825-09a2-4af8-ba73-e39c2c3cca27",
+      "customer_id": "7a839592-730f-4408-892e-4d49a8b709b8",
+      "amount": 1090.41,
+      "items": [
+        "T-Shirt"
+      ],
+      "status": "completed",
+      "created_at": "2023-05-21"
+    },
+    {
+      "id": "65f168b5-cf85-446c-937e-6210193ea600",
+      "customer_id": "b830b74c-7271-40ac-854c-5cb413bb2255",
+      "amount": 3719.13,
+      "items": [
+        "Saree",
+        "Watch"
+      ],
+      "status": "completed",
+      "created_at": "2024-05-03"
+    },
+    {
+      "id": "6d99226a-b771-44c8-a525-fadbd5ec9d2c",
+      "customer_id": "0689d8ca-c4dd-411e-ba2a-b666b2aeba2f",
+      "amount": 1258.87,
+      "items": [
+        "Backpack"
+      ],
+      "status": "completed",
+      "created_at": "2023-12-10"
+    },
+    {
+      "id": "6e6ec17b-e24f-4a11-a8b3-c547e62b7766",
+      "customer_id": "246b470e-3e25-4e7f-9e8c-39b62aa05685",
+      "amount": 8704.96,
+      "items": [
+        "Headphones",
+        "Sneakers",
+        "Coffee Mug",
+        "Watch"
+      ],
+      "status": "completed",
+      "created_at": "2025-02-07"
+    },
+    {
+      "id": "2552ed48-1418-4043-b248-497e4fadc582",
+      "customer_id": "20d240d2-66be-439b-969d-ad273c84916f",
+      "amount": 8229.9,
+      "items": [
+        "Belt",
+        "Kurta",
+        "Sunglasses",
+        "Socks"
+      ],
+      "status": "pending",
+      "created_at": "2023-08-05"
+    },
+    {
+      "id": "84271bbf-cc65-4e10-ba50-f6f93d403801",
+      "customer_id": "be36607f-771f-4e57-bc8b-b9f197374537",
+      "amount": 4113.93,
+      "items": [
+        "T-Shirt",
+        "Saree",
+        "Wallet"
+      ],
+      "status": "completed",
+      "created_at": "2025-02-15"
+    },
+    {
+      "id": "4fd86ff2-2201-438b-a8fd-57b5b4ae9880",
+      "customer_id": "a718d1ab-0bc8-4c7c-922b-631c26aef7eb",
+      "amount": 827.64,
+      "items": [
+        "Hoodie"
+      ],
+      "status": "completed",
+      "created_at": "2024-07-19"
+    },
+    {
+      "id": "34c15348-7add-4bbe-be82-753f0fa456fc",
+      "customer_id": "20d240d2-66be-439b-969d-ad273c84916f",
+      "amount": 5303.07,
+      "items": [
+        "Saree",
+        "Kurta",
+        "T-Shirt",
+        "Sneakers"
+      ],
+      "status": "completed",
+      "created_at": "2024-05-07"
+    },
+    {
+      "id": "d21f4ea4-76e0-48dc-b1d1-1cf6a7fb3122",
+      "customer_id": "18e93bd6-9def-4019-a61a-7d214279f00d",
+      "amount": 4774.18,
+      "items": [
+        "Socks",
+        "Jacket",
+        "Wallet"
+      ],
+      "status": "completed",
+      "created_at": "2025-12-23"
+    },
+    {
+      "id": "e1fe1aef-f6e5-4ff9-b320-162b684f4ff6",
+      "customer_id": "e552ad5b-5dd7-4f52-b94a-d5c945c6c8d9",
+      "amount": 3990.38,
+      "items": [
+        "Watch",
+        "Jacket",
+        "Backpack"
+      ],
+      "status": "completed",
+      "created_at": "2024-01-30"
+    },
+    {
+      "id": "48460d34-dd9f-49bd-a416-b51ac131a6c8",
+      "customer_id": "94278c8b-93fa-4690-b166-a2bd0649c2e7",
+      "amount": 3560.09,
+      "items": [
+        "Watch",
+        "Headphones",
+        "Perfume"
+      ],
+      "status": "completed",
+      "created_at": "2025-12-10"
+    },
+    {
+      "id": "9061600a-7d8f-4648-812e-eb99ac9fd5cd",
+      "customer_id": "cd16e09a-699a-4ced-8077-6bc5821b0180",
+      "amount": 2333.0,
+      "items": [
+        "Jeans"
+      ],
+      "status": "pending",
+      "created_at": "2024-07-15"
+    },
+    {
+      "id": "16142575-0de4-4cb8-8eea-7c9f7e2b6fd2",
+      "customer_id": "66c710a3-960c-4277-831e-a693bf706fd0",
+      "amount": 2403.47,
+      "items": [
+        "T-Shirt"
+      ],
+      "status": "completed",
+      "created_at": "2025-10-02"
+    },
+    {
+      "id": "fe948ea3-4337-472c-a474-e2465ea145f6",
+      "customer_id": "dffb4b5b-22cc-4298-8ae5-7a77ac5d65d0",
+      "amount": 1847.79,
+      "items": [
+        "Notebook"
+      ],
+      "status": "completed",
+      "created_at": "2024-01-13"
+    },
+    {
+      "id": "d46723db-d962-4bb0-8905-2598202599d7",
+      "customer_id": "20d240d2-66be-439b-969d-ad273c84916f",
+      "amount": 977.72,
+      "items": [
+        "Sunglasses"
+      ],
+      "status": "pending",
+      "created_at": "2023-06-01"
+    },
+    {
+      "id": "ac3d6491-0334-4b62-b945-dcac4d41a467",
+      "customer_id": "d68a29e0-0618-4cc5-9960-3ed619e5bae0",
+      "amount": 2100.41,
+      "items": [
+        "Jacket"
+      ],
+      "status": "returned",
+      "created_at": "2024-05-23"
+    },
+    {
+      "id": "23504186-b8f6-4ee5-9666-7fd465f21f6a",
+      "customer_id": "1865132d-a2f6-4895-abfc-031f17987842",
+      "amount": 7919.32,
+      "items": [
+        "Kurta",
+        "Sandals",
+        "Perfume",
+        "Socks"
+      ],
+      "status": "completed",
+      "created_at": "2025-12-06"
+    },
+    {
+      "id": "51e73184-6194-4d08-ac9f-dfaa4537dea6",
+      "customer_id": "94278c8b-93fa-4690-b166-a2bd0649c2e7",
+      "amount": 1795.99,
+      "items": [
+        "Notebook",
+        "Sneakers"
+      ],
+      "status": "completed",
+      "created_at": "2024-03-01"
+    },
+    {
+      "id": "55aa6470-0979-48ae-812c-84263d4d07e9",
+      "customer_id": "3a1d3506-1301-4acd-aa56-8a3dceaddbfe",
+      "amount": 4967.58,
+      "items": [
+        "Sandals",
+        "Saree",
+        "Perfume",
+        "Jeans"
+      ],
+      "status": "completed",
+      "created_at": "2025-04-16"
+    },
+    {
+      "id": "2e315c5d-7943-4109-a899-798cb51b995f",
+      "customer_id": "85d51ccd-4d94-4975-b65a-7912d361471e",
+      "amount": 2654.18,
+      "items": [
+        "Watch",
+        "Jacket",
+        "Coffee Mug",
+        "Sunglasses"
+      ],
+      "status": "completed",
+      "created_at": "2024-02-10"
+    },
+    {
+      "id": "be1f7dcf-f3a9-43b0-9af2-30ac6c957cee",
+      "customer_id": "ddc2a10c-02d1-46b2-8c1e-943e76669bfa",
+      "amount": 8351.75,
+      "items": [
+        "Watch",
+        "Kurta",
+        "Perfume",
+        "Cap"
+      ],
+      "status": "completed",
+      "created_at": "2024-08-14"
+    },
+    {
+      "id": "6bf60984-73b5-4fad-9475-9a4a0c9acf7f",
+      "customer_id": "ab66f5e6-5c23-4ae3-8c27-024d69c0daff",
+      "amount": 2253.52,
+      "items": [
+        "Backpack"
+      ],
+      "status": "completed",
+      "created_at": "2024-07-05"
+    },
+    {
+      "id": "54f444a1-6461-449a-ba16-e08bacd8d0e8",
+      "customer_id": "a718d1ab-0bc8-4c7c-922b-631c26aef7eb",
+      "amount": 6729.76,
+      "items": [
+        "Saree",
+        "Sneakers",
+        "Sandals",
+        "Belt"
+      ],
+      "status": "completed",
+      "created_at": "2024-01-07"
+    },
+    {
+      "id": "cad8281d-a9be-454c-950c-a79e76d39a9a",
+      "customer_id": "76b5a6cc-eb29-43cd-8e33-c2def3a727c2",
+      "amount": 3806.68,
+      "items": [
+        "Cap",
+        "Jacket",
+        "Jeans"
+      ],
+      "status": "completed",
+      "created_at": "2025-10-11"
+    },
+    {
+      "id": "9836b2cb-e3c0-4f03-b784-c067fbea04ee",
+      "customer_id": "0689d8ca-c4dd-411e-ba2a-b666b2aeba2f",
+      "amount": 5094.29,
+      "items": [
+        "Jeans",
+        "Headphones",
+        "Notebook",
+        "Sunglasses"
+      ],
+      "status": "completed",
+      "created_at": "2025-10-17"
+    },
+    {
+      "id": "20003c04-8d0d-436d-af31-83342287a05e",
+      "customer_id": "5ab4adb6-2f15-49e3-b446-eecc95ab0746",
+      "amount": 4629.77,
+      "items": [
+        "Jacket",
+        "T-Shirt",
+        "Sandals"
+      ],
+      "status": "pending",
+      "created_at": "2023-11-21"
+    },
+    {
+      "id": "4347d4b2-6528-4d91-a92c-7a118f0dcc9d",
+      "customer_id": "bcb884a2-c62a-43d9-aebc-fe2a01c06231",
+      "amount": 3630.91,
+      "items": [
+        "Saree",
+        "Perfume"
+      ],
+      "status": "completed",
+      "created_at": "2023-08-29"
+    },
+    {
+      "id": "0b199ef4-fbe8-4c6a-a2a6-c6977d847bbf",
+      "customer_id": "18e93bd6-9def-4019-a61a-7d214279f00d",
+      "amount": 5797.6,
+      "items": [
+        "Jacket",
+        "Sunglasses",
+        "Cap",
+        "Headphones"
+      ],
+      "status": "returned",
+      "created_at": "2024-05-14"
+    },
+    {
+      "id": "a21488a1-597c-4b65-8fd5-96025f9cca08",
+      "customer_id": "76b5a6cc-eb29-43cd-8e33-c2def3a727c2",
+      "amount": 8444.24,
+      "items": [
+        "T-Shirt",
+        "Perfume",
+        "Shorts"
+      ],
+      "status": "completed",
+      "created_at": "2024-11-27"
+    },
+    {
+      "id": "03438ec4-e492-4261-b4e2-44416dcfa014",
+      "customer_id": "fea3d8cc-0a22-4622-8aed-541fc690159f",
+      "amount": 6579.02,
+      "items": [
+        "Wallet",
+        "Jacket",
+        "Shorts"
+      ],
+      "status": "pending",
+      "created_at": "2025-09-18"
+    },
+    {
+      "id": "5de8e5e3-2cea-4a6a-bd29-f040290a45e0",
+      "customer_id": "5ab4adb6-2f15-49e3-b446-eecc95ab0746",
+      "amount": 4195.51,
+      "items": [
+        "Socks",
+        "Jeans"
+      ],
+      "status": "returned",
+      "created_at": "2025-02-23"
+    },
+    {
+      "id": "38cce02b-3727-4b21-ae78-2419b34e25ea",
+      "customer_id": "1ccd900f-9a5a-409a-bb1d-1f45ca28a323",
+      "amount": 6999.11,
+      "items": [
+        "Jeans",
+        "Sunglasses",
+        "Hoodie",
+        "Wallet"
+      ],
+      "status": "completed",
+      "created_at": "2023-11-08"
+    },
+    {
+      "id": "74f000c7-298f-47f9-b5cf-b08391b1bfdc",
+      "customer_id": "b830b74c-7271-40ac-854c-5cb413bb2255",
+      "amount": 3191.49,
+      "items": [
+        "Sneakers",
+        "Saree"
+      ],
+      "status": "completed",
+      "created_at": "2025-04-19"
+    },
+    {
+      "id": "e4bd9249-20ef-4e56-839f-962b1f16e54f",
+      "customer_id": "d68a29e0-0618-4cc5-9960-3ed619e5bae0",
+      "amount": 8172.44,
+      "items": [
+        "Wallet",
+        "Saree",
+        "Jacket",
+        "Jeans"
+      ],
+      "status": "completed",
+      "created_at": "2024-11-03"
+    },
+    {
+      "id": "d9d8e961-3886-432b-8350-821f6a2ec382",
+      "customer_id": "1865132d-a2f6-4895-abfc-031f17987842",
+      "amount": 4384.94,
+      "items": [
+        "Watch",
+        "Sandals",
+        "Kurta",
+        "Backpack"
+      ],
+      "status": "completed",
+      "created_at": "2023-07-05"
+    },
+    {
+      "id": "ec27bf41-b25f-452d-b497-5e239dacfb96",
+      "customer_id": "0689d8ca-c4dd-411e-ba2a-b666b2aeba2f",
+      "amount": 5025.67,
+      "items": [
+        "Coffee Mug",
+        "Hoodie"
+      ],
+      "status": "completed",
+      "created_at": "2025-06-01"
+    },
+    {
+      "id": "8c6d6d1f-9268-4151-ba42-fbc13fb0c6fd",
+      "customer_id": "bd34f7ec-ddab-4679-a045-8b6f836c6aaa",
+      "amount": 7508.16,
+      "items": [
+        "Sandals",
+        "Coffee Mug",
+        "Saree",
+        "Sunglasses"
+      ],
+      "status": "completed",
+      "created_at": "2023-06-11"
+    },
+    {
+      "id": "39608194-4c0f-46ac-bced-5e6a934cb463",
+      "customer_id": "bcb884a2-c62a-43d9-aebc-fe2a01c06231",
+      "amount": 4008.17,
+      "items": [
+        "Sneakers",
+        "Kurta"
+      ],
+      "status": "pending",
+      "created_at": "2024-08-12"
+    },
+    {
+      "id": "0d51fb01-343f-4413-ba69-2547918ddc47",
+      "customer_id": "102d0593-84c5-48e8-a953-d61a00756079",
+      "amount": 5985.6,
+      "items": [
+        "Perfume",
+        "Headphones",
+        "Cap",
+        "Saree"
+      ],
+      "status": "completed",
+      "created_at": "2024-05-27"
+    },
+    {
+      "id": "91f2a80e-c9e4-4f1f-9702-e64c4b7cd635",
+      "customer_id": "102d0593-84c5-48e8-a953-d61a00756079",
+      "amount": 1064.56,
+      "items": [
+        "Cap"
+      ],
+      "status": "returned",
+      "created_at": "2024-08-27"
+    },
+    {
+      "id": "2b09b403-b372-478d-b1d2-6e3ea203cc73",
+      "customer_id": "d79004a5-590e-492c-b003-83c23fd7597d",
+      "amount": 1749.66,
+      "items": [
+        "Jeans"
+      ],
+      "status": "completed",
+      "created_at": "2023-10-08"
+    },
+    {
+      "id": "b6f6c89b-b46f-4b94-adb0-300688ab5081",
+      "customer_id": "0689d8ca-c4dd-411e-ba2a-b666b2aeba2f",
+      "amount": 1805.21,
+      "items": [
+        "Perfume"
+      ],
+      "status": "completed",
+      "created_at": "2023-09-27"
+    },
+    {
+      "id": "2af2f9f1-95f9-4cba-9b16-585dc39868ba",
+      "customer_id": "cd16e09a-699a-4ced-8077-6bc5821b0180",
+      "amount": 3791.25,
+      "items": [
+        "Backpack",
+        "Notebook",
+        "Saree"
+      ],
+      "status": "completed",
+      "created_at": "2025-01-19"
+    },
+    {
+      "id": "f1f4105c-586a-4e38-b0b1-5dea66ec157e",
+      "customer_id": "94278c8b-93fa-4690-b166-a2bd0649c2e7",
+      "amount": 4770.19,
+      "items": [
+        "Jacket",
+        "Belt",
+        "Sneakers",
+        "Cap"
+      ],
+      "status": "completed",
+      "created_at": "2024-04-07"
+    },
+    {
+      "id": "121dd83e-40d3-444a-a1d8-1070a96b8994",
+      "customer_id": "ab66f5e6-5c23-4ae3-8c27-024d69c0daff",
+      "amount": 8905.26,
+      "items": [
+        "Belt",
+        "Watch",
+        "Coffee Mug",
+        "Saree"
+      ],
+      "status": "completed",
+      "created_at": "2024-06-20"
+    },
+    {
+      "id": "ab4ef3ff-a90b-413d-aecc-77a78e835d5b",
+      "customer_id": "86aba39e-3413-484f-b24a-33ae57dc1f2a",
+      "amount": 2833.45,
+      "items": [
+        "Socks",
+        "Watch",
+        "Sunglasses"
+      ],
+      "status": "completed",
+      "created_at": "2025-08-08"
+    },
+    {
+      "id": "eb2c808c-75a2-4491-9852-885244f86708",
+      "customer_id": "5ab4adb6-2f15-49e3-b446-eecc95ab0746",
+      "amount": 6981.28,
+      "items": [
+        "Kurta",
+        "Belt",
+        "Jacket",
+        "Socks"
+      ],
+      "status": "completed",
+      "created_at": "2023-10-05"
+    },
+    {
+      "id": "ff12f2c6-1531-499a-bb87-957857341b41",
+      "customer_id": "76b5a6cc-eb29-43cd-8e33-c2def3a727c2",
+      "amount": 1112.62,
+      "items": [
+        "Belt"
+      ],
+      "status": "pending",
+      "created_at": "2024-07-26"
+    },
+    {
+      "id": "c3c73267-de38-4945-9f47-f6f10c197fcf",
+      "customer_id": "0689d8ca-c4dd-411e-ba2a-b666b2aeba2f",
+      "amount": 5312.34,
+      "items": [
+        "Jacket",
+        "Belt",
+        "Jeans"
+      ],
+      "status": "pending",
+      "created_at": "2023-07-23"
+    },
+    {
+      "id": "213691b3-36b6-424b-8a04-5d5af28165ec",
+      "customer_id": "bcb884a2-c62a-43d9-aebc-fe2a01c06231",
+      "amount": 1818.68,
+      "items": [
+        "Sandals",
+        "T-Shirt"
+      ],
+      "status": "completed",
+      "created_at": "2023-07-07"
+    },
+    {
+      "id": "5ad88570-2831-4111-bc04-106e9c35a812",
+      "customer_id": "5a02f223-53ca-45bc-b583-5abf0ce1c1c0",
+      "amount": 1145.66,
+      "items": [
+        "Jacket"
+      ],
+      "status": "returned",
+      "created_at": "2024-02-25"
+    },
+    {
+      "id": "dbd8ecf6-9fa0-4ba7-bac0-e10ab8b97fbe",
+      "customer_id": "1865132d-a2f6-4895-abfc-031f17987842",
+      "amount": 2751.84,
+      "items": [
+        "Sandals",
+        "T-Shirt"
+      ],
+      "status": "completed",
+      "created_at": "2024-11-03"
+    },
+    {
+      "id": "a32e3bb2-aa22-4f9b-87bd-5ee62af4f15c",
+      "customer_id": "bd34f7ec-ddab-4679-a045-8b6f836c6aaa",
+      "amount": 254.57,
+      "items": [
+        "Sunglasses"
+      ],
+      "status": "returned",
+      "created_at": "2023-08-14"
+    },
+    {
+      "id": "c0ba0a61-b8a5-4f60-8507-065236bfc1d0",
+      "customer_id": "ed5c7472-2216-433d-95df-1cfa1af815a7",
+      "amount": 2420.82,
+      "items": [
+        "Saree"
+      ],
+      "status": "completed",
+      "created_at": "2023-08-21"
+    },
+    {
+      "id": "3a937636-84c8-4817-80ef-ee8a97848e9c",
+      "customer_id": "bebe1c66-657e-4036-93f8-f222933e2159",
+      "amount": 4975.62,
+      "items": [
+        "Sandals",
+        "Jeans"
+      ],
+      "status": "completed",
+      "created_at": "2025-07-14"
+    },
+    {
+      "id": "e69c8113-f875-4bcb-a4fd-fbb4b5c65549",
+      "customer_id": "6da898e0-1c15-47e5-a401-52fec536b84d",
+      "amount": 5041.54,
+      "items": [
+        "Cap",
+        "Socks",
+        "Watch",
+        "Saree"
+      ],
+      "status": "completed",
+      "created_at": "2023-05-05"
+    },
+    {
+      "id": "45e9be3d-5f0b-4d7b-9aa1-480e1fb78cb2",
+      "customer_id": "a718d1ab-0bc8-4c7c-922b-631c26aef7eb",
+      "amount": 8994.45,
+      "items": [
+        "Sandals",
+        "Hoodie",
+        "Perfume",
+        "Kurta"
+      ],
+      "status": "completed",
+      "created_at": "2024-10-27"
+    },
+    {
+      "id": "2e9ad4b4-64d2-4725-a21a-ca5765f6b440",
+      "customer_id": "7a839592-730f-4408-892e-4d49a8b709b8",
+      "amount": 6102.94,
+      "items": [
+        "Kurta",
+        "Coffee Mug",
+        "Socks",
+        "Wallet"
+      ],
+      "status": "completed",
+      "created_at": "2024-03-16"
+    },
+    {
+      "id": "be78c92c-7d51-4cf8-96cd-ab21a5537836",
+      "customer_id": "85d51ccd-4d94-4975-b65a-7912d361471e",
+      "amount": 949.9,
+      "items": [
+        "Saree",
+        "Sneakers"
+      ],
+      "status": "completed",
+      "created_at": "2025-02-05"
+    },
+    {
+      "id": "aeda1ac0-b2b3-4d3c-8927-5f46d5925133",
+      "customer_id": "ddc2a10c-02d1-46b2-8c1e-943e76669bfa",
+      "amount": 5514.45,
+      "items": [
+        "Jacket",
+        "Jeans"
+      ],
+      "status": "completed",
+      "created_at": "2025-02-02"
+    },
+    {
+      "id": "b2e35ed0-a662-4966-9c4a-92a1026675de",
+      "customer_id": "76b5a6cc-eb29-43cd-8e33-c2def3a727c2",
+      "amount": 5737.97,
+      "items": [
+        "Jeans",
+        "Perfume",
+        "Shorts",
+        "Belt"
+      ],
+      "status": "completed",
+      "created_at": "2024-12-25"
+    },
+    {
+      "id": "1e33017b-7887-44ee-972a-5d0c3fa42dc6",
+      "customer_id": "bebe1c66-657e-4036-93f8-f222933e2159",
+      "amount": 7968.86,
+      "items": [
+        "Watch",
+        "Notebook",
+        "Coffee Mug"
+      ],
+      "status": "completed",
+      "created_at": "2024-12-18"
+    },
+    {
+      "id": "6398bbc0-8e8f-4177-b58d-e9f3542f29b2",
+      "customer_id": "6da898e0-1c15-47e5-a401-52fec536b84d",
+      "amount": 1518.63,
+      "items": [
+        "Backpack"
+      ],
+      "status": "completed",
+      "created_at": "2024-07-01"
+    },
+    {
+      "id": "f9a2e9c8-9ead-4618-b25e-64bcd8c397e4",
+      "customer_id": "dffb4b5b-22cc-4298-8ae5-7a77ac5d65d0",
+      "amount": 851.36,
+      "items": [
+        "Backpack"
+      ],
+      "status": "completed",
+      "created_at": "2024-12-19"
+    },
+    {
+      "id": "329095b3-377e-48fe-a656-1b14fbfb3c24",
+      "customer_id": "b830b74c-7271-40ac-854c-5cb413bb2255",
+      "amount": 1068.13,
+      "items": [
+        "Hoodie"
+      ],
+      "status": "completed",
+      "created_at": "2023-03-04"
+    },
+    {
+      "id": "fd7a12e6-c2f3-4ec0-ae83-28c03ccbc173",
+      "customer_id": "08b0ef9c-fea0-45c3-8d8f-efd3cd750338",
+      "amount": 2467.45,
+      "items": [
+        "Wallet",
+        "Shorts",
+        "Sneakers"
+      ],
+      "status": "completed",
+      "created_at": "2025-01-27"
+    },
+    {
+      "id": "ab8d90ce-5382-4ac3-81ed-e949805d5bd8",
+      "customer_id": "d68a29e0-0618-4cc5-9960-3ed619e5bae0",
+      "amount": 5216.95,
+      "items": [
+        "Socks",
+        "Saree",
+        "Kurta",
+        "Sandals"
+      ],
+      "status": "completed",
+      "created_at": "2024-07-11"
+    },
+    {
+      "id": "a449488a-25a3-452d-a83a-ebcd499bb395",
+      "customer_id": "ab66f5e6-5c23-4ae3-8c27-024d69c0daff",
+      "amount": 2985.42,
+      "items": [
+        "Jeans",
+        "Coffee Mug",
+        "Cap"
+      ],
+      "status": "pending",
+      "created_at": "2025-09-23"
+    },
+    {
+      "id": "d58eaadd-a3c4-4d4d-a64d-69fa7b316f52",
+      "customer_id": "8e1b9b76-9ee1-4562-a0cf-b6e6f17ce3d0",
+      "amount": 5477.23,
+      "items": [
+        "Sneakers",
+        "Cap",
+        "Jeans"
+      ],
+      "status": "returned",
+      "created_at": "2024-04-16"
+    },
+    {
+      "id": "1ebb7a5c-9ae0-491c-9a96-89f5fc698160",
+      "customer_id": "5a02f223-53ca-45bc-b583-5abf0ce1c1c0",
+      "amount": 5612.73,
+      "items": [
+        "Socks",
+        "Perfume",
+        "Watch",
+        "Cap"
+      ],
+      "status": "completed",
+      "created_at": "2025-05-29"
+    },
+    {
+      "id": "9c3c05ed-e162-4ae5-a391-7d026522ec24",
+      "customer_id": "0689d8ca-c4dd-411e-ba2a-b666b2aeba2f",
+      "amount": 7223.91,
+      "items": [
+        "Watch",
+        "Coffee Mug",
+        "Socks",
+        "Cap"
+      ],
+      "status": "completed",
+      "created_at": "2023-06-30"
+    },
+    {
+      "id": "be183a49-ff91-4178-b4c2-07d2cf0d0b6e",
+      "customer_id": "94278c8b-93fa-4690-b166-a2bd0649c2e7",
+      "amount": 5206.27,
+      "items": [
+        "Saree",
+        "Kurta"
+      ],
+      "status": "pending",
+      "created_at": "2023-06-04"
+    },
+    {
+      "id": "6382ab2e-84b7-4561-89d8-995b54642017",
+      "customer_id": "5a02f223-53ca-45bc-b583-5abf0ce1c1c0",
+      "amount": 6580.9,
+      "items": [
+        "Sunglasses",
+        "Kurta",
+        "Sneakers"
+      ],
+      "status": "completed",
+      "created_at": "2024-10-23"
+    },
+    {
+      "id": "e2f91df5-b776-423b-9534-dc8bf5d5049e",
+      "customer_id": "d5d7b295-4093-49f2-8c44-668442d8528a",
+      "amount": 2145.28,
+      "items": [
+        "Perfume"
+      ],
+      "status": "completed",
+      "created_at": "2024-12-21"
+    },
+    {
+      "id": "844e6bad-fd24-4f96-893a-e500461aa3f7",
+      "customer_id": "50b4fe09-b5a8-42cf-b82a-206e681208c7",
+      "amount": 2773.95,
+      "items": [
+        "Sandals"
+      ],
+      "status": "completed",
+      "created_at": "2023-06-07"
+    },
+    {
+      "id": "0a6c7d97-4897-412c-bf44-6cb237bdc7a0",
+      "customer_id": "4dcaae12-3b78-4d08-8712-59969dd75efd",
+      "amount": 4742.55,
+      "items": [
+        "Shorts",
+        "Headphones",
+        "Wallet",
+        "Saree"
+      ],
+      "status": "returned",
+      "created_at": "2023-03-26"
+    },
+    {
+      "id": "12792055-4eae-4159-b125-5a5e2ba8708b",
+      "customer_id": "dffb4b5b-22cc-4298-8ae5-7a77ac5d65d0",
+      "amount": 4239.64,
+      "items": [
+        "Jeans",
+        "Coffee Mug"
+      ],
+      "status": "completed",
+      "created_at": "2023-06-22"
+    },
+    {
+      "id": "e826a7c1-c1fe-477f-bdfb-b7d74214be4a",
+      "customer_id": "0689d8ca-c4dd-411e-ba2a-b666b2aeba2f",
+      "amount": 7217.85,
+      "items": [
+        "Cap",
+        "Socks",
+        "Wallet"
+      ],
+      "status": "completed",
+      "created_at": "2025-02-02"
+    },
+    {
+      "id": "b368be89-43c0-417e-8f98-24edfc682ee9",
+      "customer_id": "86aba39e-3413-484f-b24a-33ae57dc1f2a",
+      "amount": 2957.99,
+      "items": [
+        "Jacket"
+      ],
+      "status": "completed",
+      "created_at": "2024-11-06"
+    },
+    {
+      "id": "7ee0aacb-b15e-4cd1-a2c7-ca967652a86d",
+      "customer_id": "d79004a5-590e-492c-b003-83c23fd7597d",
+      "amount": 6882.8,
+      "items": [
+        "Sneakers",
+        "Shorts",
+        "Sunglasses"
+      ],
+      "status": "completed",
+      "created_at": "2023-11-04"
+    },
+    {
+      "id": "2cadf771-ffed-4a7e-b708-bed4970bc51c",
+      "customer_id": "a5bae75e-6e20-47e9-939a-269c62014f60",
+      "amount": 5099.83,
+      "items": [
+        "Jacket",
+        "Cap",
+        "Wallet"
+      ],
+      "status": "completed",
+      "created_at": "2023-06-23"
+    },
+    {
+      "id": "a942bd81-eb81-4c49-8694-02ac73165816",
+      "customer_id": "5ef2f0e8-e2bd-41e1-bce3-481de4a06f9f",
+      "amount": 1304.04,
+      "items": [
+        "Belt"
+      ],
+      "status": "completed",
+      "created_at": "2025-01-11"
+    },
+    {
+      "id": "b96b8377-4e20-468c-a0bf-8a51c8697b15",
+      "customer_id": "5ef2f0e8-e2bd-41e1-bce3-481de4a06f9f",
+      "amount": 2363.75,
+      "items": [
+        "Wallet"
+      ],
+      "status": "completed",
+      "created_at": "2025-12-14"
+    },
+    {
+      "id": "0fc42d04-e139-44f4-b452-99d0186cf501",
+      "customer_id": "08b0ef9c-fea0-45c3-8d8f-efd3cd750338",
+      "amount": 4067.86,
+      "items": [
+        "Kurta",
+        "Jeans"
+      ],
+      "status": "completed",
+      "created_at": "2024-01-06"
+    },
+    {
+      "id": "ecb96262-67e5-470e-ad77-336bcebcda92",
+      "customer_id": "a38361dc-e178-434e-8b8b-f2538b69762e",
+      "amount": 9932.53,
+      "items": [
+        "Coffee Mug",
+        "Jacket",
+        "Sandals",
+        "Perfume"
+      ],
+      "status": "pending",
+      "created_at": "2024-08-06"
+    },
+    {
+      "id": "5949ef94-4595-4587-84ac-5e4a1546e567",
+      "customer_id": "bcb884a2-c62a-43d9-aebc-fe2a01c06231",
+      "amount": 4694.67,
+      "items": [
+        "Hoodie",
+        "Sandals",
+        "Socks",
+        "Backpack"
+      ],
+      "status": "completed",
+      "created_at": "2024-07-31"
+    },
+    {
+      "id": "648658a9-c365-4a7f-912b-850ecb5d6ec7",
+      "customer_id": "0689d8ca-c4dd-411e-ba2a-b666b2aeba2f",
+      "amount": 641.59,
+      "items": [
+        "Perfume"
+      ],
+      "status": "completed",
+      "created_at": "2023-07-30"
+    },
+    {
+      "id": "f610dab7-f7bb-407c-8df7-982c26e083a9",
+      "customer_id": "5ef2f0e8-e2bd-41e1-bce3-481de4a06f9f",
+      "amount": 4675.91,
+      "items": [
+        "Sneakers",
+        "Coffee Mug",
+        "Kurta",
+        "Belt"
+      ],
+      "status": "completed",
+      "created_at": "2023-10-29"
+    },
+    {
+      "id": "d179b29c-517e-474b-83e3-8149a442973e",
+      "customer_id": "d68a29e0-0618-4cc5-9960-3ed619e5bae0",
+      "amount": 3354.83,
+      "items": [
+        "T-Shirt",
+        "Wallet"
+      ],
+      "status": "completed",
+      "created_at": "2025-02-06"
+    },
+    {
+      "id": "6f4571b8-a715-497e-8a6d-f5ddea84106f",
+      "customer_id": "28285f48-7ad5-4932-a412-24c7ea352925",
+      "amount": 3813.15,
+      "items": [
+        "Sunglasses",
+        "Saree",
+        "Kurta",
+        "T-Shirt"
+      ],
+      "status": "completed",
+      "created_at": "2024-08-10"
+    },
+    {
+      "id": "53f2ec10-026b-480c-aae3-65f6b505704b",
+      "customer_id": "e552ad5b-5dd7-4f52-b94a-d5c945c6c8d9",
+      "amount": 4689.48,
+      "items": [
+        "Watch",
+        "Perfume",
+        "Coffee Mug",
+        "Shorts"
+      ],
+      "status": "completed",
+      "created_at": "2025-12-16"
+    },
+    {
+      "id": "30281e08-40b5-4492-8f6f-0488be1bd05f",
+      "customer_id": "86aba39e-3413-484f-b24a-33ae57dc1f2a",
+      "amount": 6012.63,
+      "items": [
+        "Sandals",
+        "Jacket",
+        "T-Shirt",
+        "Hoodie"
+      ],
+      "status": "completed",
+      "created_at": "2023-08-16"
+    },
+    {
+      "id": "8a2e851c-af82-4989-8f72-8a4d88f24d46",
+      "customer_id": "5ab4adb6-2f15-49e3-b446-eecc95ab0746",
+      "amount": 2750.02,
+      "items": [
+        "Sneakers",
+        "Hoodie"
+      ],
+      "status": "completed",
+      "created_at": "2025-05-03"
+    },
+    {
+      "id": "440e7f92-75d5-4528-91f3-dfd370747cd2",
+      "customer_id": "5ef2f0e8-e2bd-41e1-bce3-481de4a06f9f",
+      "amount": 3541.49,
+      "items": [
+        "Saree",
+        "Jeans",
+        "Cap",
+        "Belt"
+      ],
+      "status": "completed",
+      "created_at": "2023-02-11"
+    },
+    {
+      "id": "88eca870-e580-4617-b319-0727f6feb588",
+      "customer_id": "66c710a3-960c-4277-831e-a693bf706fd0",
+      "amount": 6083.23,
+      "items": [
+        "Sunglasses",
+        "Jeans",
+        "Belt"
+      ],
+      "status": "returned",
+      "created_at": "2023-08-01"
+    },
+    {
+      "id": "46fb64be-ae45-4538-849f-f86dd44e9f78",
+      "customer_id": "bcb884a2-c62a-43d9-aebc-fe2a01c06231",
+      "amount": 2295.8,
+      "items": [
+        "Sunglasses",
+        "Sneakers"
+      ],
+      "status": "completed",
+      "created_at": "2025-09-07"
+    },
+    {
+      "id": "5f257666-a679-4e08-a2ce-39475d04c70a",
+      "customer_id": "a1e5cfa0-8ab2-45d3-a650-2296e70782cb",
+      "amount": 4746.2,
+      "items": [
+        "Perfume",
+        "Hoodie",
+        "Cap"
+      ],
+      "status": "completed",
+      "created_at": "2023-03-27"
+    },
+    {
+      "id": "04c4bd5d-d8f0-444a-98f3-d22768da1956",
+      "customer_id": "50b4fe09-b5a8-42cf-b82a-206e681208c7",
+      "amount": 1137.29,
+      "items": [
+        "Wallet"
+      ],
+      "status": "completed",
+      "created_at": "2025-01-01"
+    },
+    {
+      "id": "5beb3008-c005-4dca-b421-0617a06aa9a4",
+      "customer_id": "c872e166-cd95-4b1a-ac84-b5b42cf9d06c",
+      "amount": 6818.35,
+      "items": [
+        "Wallet",
+        "Backpack",
+        "Saree",
+        "Jacket"
+      ],
+      "status": "completed",
+      "created_at": "2025-06-19"
+    },
+    {
+      "id": "5f38c76d-4449-4ccc-af7e-721723c8420d",
+      "customer_id": "a5bae75e-6e20-47e9-939a-269c62014f60",
+      "amount": 5586.03,
+      "items": [
+        "Wallet",
+        "Watch",
+        "Sneakers"
+      ],
+      "status": "completed",
+      "created_at": "2024-01-05"
+    },
+    {
+      "id": "a1922c6f-ff68-405b-83e2-9d077dbb9f3b",
+      "customer_id": "86aba39e-3413-484f-b24a-33ae57dc1f2a",
+      "amount": 7678.54,
+      "items": [
+        "Hoodie",
+        "Backpack",
+        "T-Shirt"
+      ],
+      "status": "completed",
+      "created_at": "2025-04-11"
+    },
+    {
+      "id": "b8cdf9c3-edf9-48f6-ba65-9e67a0203cfa",
+      "customer_id": "86aba39e-3413-484f-b24a-33ae57dc1f2a",
+      "amount": 6648.92,
+      "items": [
+        "Belt",
+        "Cap",
+        "Jeans"
+      ],
+      "status": "completed",
+      "created_at": "2024-04-28"
+    },
+    {
+      "id": "1e56d596-45c7-4ee7-8a99-6c8f29fb2c96",
+      "customer_id": "a38361dc-e178-434e-8b8b-f2538b69762e",
+      "amount": 3730.9,
+      "items": [
+        "Hoodie",
+        "Belt"
+      ],
+      "status": "completed",
+      "created_at": "2023-06-07"
+    },
+    {
+      "id": "f0e1372c-2342-430f-8837-61bbdaeba330",
+      "customer_id": "e3554cfa-b585-4466-82a5-14dcaaf9bec2",
+      "amount": 3680.3,
+      "items": [
+        "Saree",
+        "Hoodie"
+      ],
+      "status": "returned",
+      "created_at": "2023-02-23"
+    },
+    {
+      "id": "6a0a2acf-5371-4cbc-a446-6184e86a46ff",
+      "customer_id": "8e1b9b76-9ee1-4562-a0cf-b6e6f17ce3d0",
+      "amount": 2782.06,
+      "items": [
+        "Sandals",
+        "Perfume"
+      ],
+      "status": "returned",
+      "created_at": "2025-07-02"
+    },
+    {
+      "id": "770ef72a-373e-4e1a-850b-c0dcb1d345ca",
+      "customer_id": "a38361dc-e178-434e-8b8b-f2538b69762e",
+      "amount": 9424.26,
+      "items": [
+        "Sneakers",
+        "Wallet",
+        "Belt",
+        "Sandals"
+      ],
+      "status": "completed",
+      "created_at": "2023-12-20"
+    },
+    {
+      "id": "80cea8df-73d5-4f69-8154-9af9368a4243",
+      "customer_id": "102d0593-84c5-48e8-a953-d61a00756079",
+      "amount": 3537.75,
+      "items": [
+        "Hoodie",
+        "Coffee Mug",
+        "Watch"
+      ],
+      "status": "completed",
+      "created_at": "2023-12-23"
+    },
+    {
+      "id": "037e7847-03eb-4977-9b70-9f48f15ac068",
+      "customer_id": "4dcaae12-3b78-4d08-8712-59969dd75efd",
+      "amount": 7851.15,
+      "items": [
+        "Jacket",
+        "Sunglasses",
+        "Sneakers",
+        "Sandals"
+      ],
+      "status": "completed",
+      "created_at": "2025-01-25"
+    },
+    {
+      "id": "4cb8a408-f9a4-4c15-a057-d444a400871d",
+      "customer_id": "5a02f223-53ca-45bc-b583-5abf0ce1c1c0",
+      "amount": 4732.37,
+      "items": [
+        "Wallet",
+        "Sneakers"
+      ],
+      "status": "completed",
+      "created_at": "2023-06-01"
+    },
+    {
+      "id": "7ca98a71-fdee-46a2-aea6-45cf7f7222fb",
+      "customer_id": "08b0ef9c-fea0-45c3-8d8f-efd3cd750338",
+      "amount": 1745.12,
+      "items": [
+        "Belt",
+        "Hoodie"
+      ],
+      "status": "completed",
+      "created_at": "2024-10-22"
+    },
+    {
+      "id": "92665287-f8de-46c8-8463-3d86cb757b77",
+      "customer_id": "4dcaae12-3b78-4d08-8712-59969dd75efd",
+      "amount": 3182.2,
+      "items": [
+        "Perfume",
+        "Jacket"
+      ],
+      "status": "completed",
+      "created_at": "2024-07-16"
+    },
+    {
+      "id": "c51503c0-db8e-4572-864b-3d26d44f8a95",
+      "customer_id": "28285f48-7ad5-4932-a412-24c7ea352925",
+      "amount": 4522.41,
+      "items": [
+        "Shorts",
+        "Socks"
+      ],
+      "status": "returned",
+      "created_at": "2024-06-26"
+    },
+    {
+      "id": "385d3524-35ef-4cc5-a96b-f72720f43795",
+      "customer_id": "fea3d8cc-0a22-4622-8aed-541fc690159f",
+      "amount": 4546.33,
+      "items": [
+        "Saree",
+        "Coffee Mug",
+        "Cap"
+      ],
+      "status": "completed",
+      "created_at": "2024-08-16"
+    },
+    {
+      "id": "7053018c-062e-4fb1-b3e4-f869d597c1e2",
+      "customer_id": "76b5a6cc-eb29-43cd-8e33-c2def3a727c2",
+      "amount": 6714.91,
+      "items": [
+        "Headphones",
+        "Wallet",
+        "Sunglasses",
+        "Shorts"
+      ],
+      "status": "completed",
+      "created_at": "2025-09-18"
+    },
+    {
+      "id": "e96984c4-37af-49ff-8d89-14e3ad3923f4",
+      "customer_id": "bebe1c66-657e-4036-93f8-f222933e2159",
+      "amount": 3082.33,
+      "items": [
+        "Kurta",
+        "Watch"
+      ],
+      "status": "completed",
+      "created_at": "2024-10-15"
+    },
+    {
+      "id": "460a0ead-8e29-4acc-9dc7-3ceea18bf91e",
+      "customer_id": "50b4fe09-b5a8-42cf-b82a-206e681208c7",
+      "amount": 6590.04,
+      "items": [
+        "Coffee Mug",
+        "Backpack",
+        "Wallet",
+        "Jacket"
+      ],
+      "status": "returned",
+      "created_at": "2025-02-25"
+    },
+    {
+      "id": "5f446851-7dc1-40f3-acb4-8caeec8de1b4",
+      "customer_id": "20d240d2-66be-439b-969d-ad273c84916f",
+      "amount": 2334.96,
+      "items": [
+        "Cap"
+      ],
+      "status": "completed",
+      "created_at": "2023-02-17"
+    },
+    {
+      "id": "d01e5984-6d9f-4829-b5de-74b99ce8e9b3",
+      "customer_id": "7a839592-730f-4408-892e-4d49a8b709b8",
+      "amount": 4650.36,
+      "items": [
+        "Jacket",
+        "T-Shirt",
+        "Watch"
+      ],
+      "status": "returned",
+      "created_at": "2025-08-21"
+    },
+    {
+      "id": "cb49c686-392d-4c79-bfcf-3cb62b82dac3",
+      "customer_id": "0689d8ca-c4dd-411e-ba2a-b666b2aeba2f",
+      "amount": 5991.82,
+      "items": [
+        "Jeans",
+        "Shorts",
+        "Jacket",
+        "Headphones"
+      ],
+      "status": "completed",
+      "created_at": "2023-04-03"
+    },
+    {
+      "id": "f3798fd1-0cbd-4f13-8106-b36b1d1655a1",
+      "customer_id": "4dcaae12-3b78-4d08-8712-59969dd75efd",
+      "amount": 594.18,
+      "items": [
+        "Sunglasses"
+      ],
+      "status": "returned",
+      "created_at": "2024-07-26"
+    },
+    {
+      "id": "bdbd8142-f587-4813-8e46-7e16f5d78cab",
+      "customer_id": "dffb4b5b-22cc-4298-8ae5-7a77ac5d65d0",
+      "amount": 3355.96,
+      "items": [
+        "Headphones",
+        "Hoodie"
+      ],
+      "status": "completed",
+      "created_at": "2025-01-18"
+    },
+    {
+      "id": "77efbcfd-b4b4-47c9-abec-e3cdfa3d9e8d",
+      "customer_id": "8e1b9b76-9ee1-4562-a0cf-b6e6f17ce3d0",
+      "amount": 5754.57,
+      "items": [
+        "Hoodie",
+        "Kurta",
+        "Sunglasses",
+        "Sandals"
+      ],
+      "status": "pending",
+      "created_at": "2024-11-13"
+    },
+    {
+      "id": "45cb5d5a-62ed-4932-a1fd-11b59e09fe20",
+      "customer_id": "ddc2a10c-02d1-46b2-8c1e-943e76669bfa",
+      "amount": 6367.85,
+      "items": [
+        "Hoodie",
+        "Sandals",
+        "Jacket"
+      ],
+      "status": "completed",
+      "created_at": "2024-09-04"
+    },
+    {
+      "id": "2c0d4b99-6a35-4228-aee3-3d9e2d1b5a9f",
+      "customer_id": "dffb4b5b-22cc-4298-8ae5-7a77ac5d65d0",
+      "amount": 8503.56,
+      "items": [
+        "Shorts",
+        "Perfume",
+        "T-Shirt",
+        "Saree"
+      ],
+      "status": "completed",
+      "created_at": "2023-08-13"
+    },
+    {
+      "id": "5a29fb41-568a-407d-8f41-696ccab5b04a",
+      "customer_id": "18e93bd6-9def-4019-a61a-7d214279f00d",
+      "amount": 4792.58,
+      "items": [
+        "Sunglasses",
+        "Coffee Mug",
+        "Jeans",
+        "Watch"
+      ],
+      "status": "completed",
+      "created_at": "2023-12-16"
+    },
+    {
+      "id": "0b99d6aa-0c92-4b90-b34c-11e4b2488ac3",
+      "customer_id": "ebcbdbac-d471-4288-bc17-5a94c34bdb4d",
+      "amount": 9669.86,
+      "items": [
+        "Jeans",
+        "Sunglasses",
+        "Hoodie",
+        "Headphones"
+      ],
+      "status": "completed",
+      "created_at": "2025-04-20"
+    },
+    {
+      "id": "3a2fe3f5-e709-421e-b123-bf17916318bb",
+      "customer_id": "bd34f7ec-ddab-4679-a045-8b6f836c6aaa",
+      "amount": 7503.23,
+      "items": [
+        "Jacket",
+        "Belt",
+        "Notebook"
+      ],
+      "status": "completed",
+      "created_at": "2025-07-30"
+    },
+    {
+      "id": "28b52948-b60d-4fbb-b64b-546cf222a0f6",
+      "customer_id": "246b470e-3e25-4e7f-9e8c-39b62aa05685",
+      "amount": 5715.57,
+      "items": [
+        "Perfume",
+        "Headphones",
+        "Saree"
+      ],
+      "status": "pending",
+      "created_at": "2024-04-05"
+    },
+    {
+      "id": "b9c7c42c-db2a-4630-87f2-5503ceb1efc6",
+      "customer_id": "e552ad5b-5dd7-4f52-b94a-d5c945c6c8d9",
+      "amount": 6621.55,
+      "items": [
+        "Watch",
+        "Shorts",
+        "Jacket"
+      ],
+      "status": "returned",
+      "created_at": "2024-07-14"
+    },
+    {
+      "id": "08cefe9c-35bc-4282-9c9d-1546bbfcea36",
+      "customer_id": "50b4fe09-b5a8-42cf-b82a-206e681208c7",
+      "amount": 5712.24,
+      "items": [
+        "Sneakers",
+        "Belt",
+        "Kurta"
+      ],
+      "status": "returned",
+      "created_at": "2023-03-28"
+    },
+    {
+      "id": "e29df540-d8ab-45c1-afc5-4692a3dce0dc",
+      "customer_id": "a718d1ab-0bc8-4c7c-922b-631c26aef7eb",
+      "amount": 1958.63,
+      "items": [
+        "Watch",
+        "Shorts"
+      ],
+      "status": "pending",
+      "created_at": "2024-07-10"
+    },
+    {
+      "id": "82f1241f-0232-45d4-a8f9-2a404f49c9b3",
+      "customer_id": "1865132d-a2f6-4895-abfc-031f17987842",
+      "amount": 1826.06,
+      "items": [
+        "Watch"
+      ],
+      "status": "completed",
+      "created_at": "2024-04-21"
+    },
+    {
+      "id": "8e9b0439-5932-404a-a865-c7fdfdc3e6a3",
+      "customer_id": "ab66f5e6-5c23-4ae3-8c27-024d69c0daff",
+      "amount": 848.92,
+      "items": [
+        "Jacket"
+      ],
+      "status": "pending",
+      "created_at": "2023-10-09"
+    },
+    {
+      "id": "8a4e3934-ca97-4752-ab26-55b4fcf9849e",
+      "customer_id": "18e93bd6-9def-4019-a61a-7d214279f00d",
+      "amount": 3495.86,
+      "items": [
+        "Perfume",
+        "Wallet"
+      ],
+      "status": "returned",
+      "created_at": "2025-09-04"
+    },
+    {
+      "id": "e4c91ee7-6c62-413e-baf4-f8a184634d22",
+      "customer_id": "7a839592-730f-4408-892e-4d49a8b709b8",
+      "amount": 2371.79,
+      "items": [
+        "Backpack"
+      ],
+      "status": "completed",
+      "created_at": "2024-04-20"
+    },
+    {
+      "id": "ed4de9e1-867a-4df0-803c-7379a36f3c4a",
+      "customer_id": "28285f48-7ad5-4932-a412-24c7ea352925",
+      "amount": 9171.97,
+      "items": [
+        "Backpack",
+        "Perfume",
+        "Jeans",
+        "T-Shirt"
+      ],
+      "status": "completed",
+      "created_at": "2025-03-24"
+    },
+    {
+      "id": "8ceeef90-9bf9-47c0-bb68-ba72bf32e9bb",
+      "customer_id": "bcb884a2-c62a-43d9-aebc-fe2a01c06231",
+      "amount": 4742.66,
+      "items": [
+        "Sunglasses",
+        "Hoodie",
+        "Kurta",
+        "Notebook"
+      ],
+      "status": "completed",
+      "created_at": "2025-12-09"
+    },
+    {
+      "id": "56bb19ad-c2b7-46dd-93b0-76d9dc8eacc0",
+      "customer_id": "8e1b9b76-9ee1-4562-a0cf-b6e6f17ce3d0",
+      "amount": 1526.12,
+      "items": [
+        "Wallet"
+      ],
+      "status": "returned",
+      "created_at": "2024-01-17"
+    },
+    {
+      "id": "33bdd80b-95fc-4f53-a0fa-ac6820b18fa4",
+      "customer_id": "bd34f7ec-ddab-4679-a045-8b6f836c6aaa",
+      "amount": 5465.78,
+      "items": [
+        "Hoodie",
+        "Wallet",
+        "Sneakers",
+        "Cap"
+      ],
+      "status": "pending",
+      "created_at": "2025-04-10"
+    },
+    {
+      "id": "84e9fa64-975a-4574-b6a6-923e17babafa",
+      "customer_id": "3a1d3506-1301-4acd-aa56-8a3dceaddbfe",
+      "amount": 6341.38,
+      "items": [
+        "Coffee Mug",
+        "Kurta",
+        "Notebook",
+        "Wallet"
+      ],
+      "status": "completed",
+      "created_at": "2024-06-18"
+    },
+    {
+      "id": "a790981f-2783-403e-9344-1483e7e2a6a5",
+      "customer_id": "5ab4adb6-2f15-49e3-b446-eecc95ab0746",
+      "amount": 1281.07,
+      "items": [
+        "Kurta"
+      ],
+      "status": "completed",
+      "created_at": "2023-05-08"
+    },
+    {
+      "id": "0e56e854-2ffe-4577-bf5c-5bf555b8c39a",
+      "customer_id": "8e1b9b76-9ee1-4562-a0cf-b6e6f17ce3d0",
+      "amount": 1887.97,
+      "items": [
+        "Perfume"
+      ],
+      "status": "completed",
+      "created_at": "2024-09-28"
+    },
+    {
+      "id": "4cbe202d-bdae-419c-adc1-ec839516b405",
+      "customer_id": "cd16e09a-699a-4ced-8077-6bc5821b0180",
+      "amount": 5467.85,
+      "items": [
+        "Kurta",
+        "Belt"
+      ],
+      "status": "returned",
+      "created_at": "2025-09-06"
+    },
+    {
+      "id": "e2f60b26-9552-46bb-ace0-e52cf2e09916",
+      "customer_id": "d79004a5-590e-492c-b003-83c23fd7597d",
+      "amount": 4661.76,
+      "items": [
+        "Sandals",
+        "Sneakers"
+      ],
+      "status": "completed",
+      "created_at": "2024-03-23"
+    },
+    {
+      "id": "34aa31ec-9537-4b39-a0c3-591d87f18474",
+      "customer_id": "5a02f223-53ca-45bc-b583-5abf0ce1c1c0",
+      "amount": 2045.45,
+      "items": [
+        "Jacket"
+      ],
+      "status": "completed",
+      "created_at": "2023-08-18"
+    },
+    {
+      "id": "7a17a5c4-ab31-4b09-974e-a0e302b23ad6",
+      "customer_id": "08b0ef9c-fea0-45c3-8d8f-efd3cd750338",
+      "amount": 5886.88,
+      "items": [
+        "Watch",
+        "Headphones",
+        "Saree",
+        "Sneakers"
+      ],
+      "status": "completed",
+      "created_at": "2024-11-02"
+    },
+    {
+      "id": "20a71f40-f387-4e0f-a040-08b8a8ec15d8",
+      "customer_id": "5a02f223-53ca-45bc-b583-5abf0ce1c1c0",
+      "amount": 3595.78,
+      "items": [
+        "Perfume",
+        "T-Shirt",
+        "Cap",
+        "Notebook"
+      ],
+      "status": "completed",
+      "created_at": "2023-04-29"
+    },
+    {
+      "id": "d7409d81-a5c6-409d-906f-a1af0ff24571",
+      "customer_id": "86aba39e-3413-484f-b24a-33ae57dc1f2a",
+      "amount": 310.43,
+      "items": [
+        "Saree"
+      ],
+      "status": "completed",
+      "created_at": "2023-05-04"
+    },
+    {
+      "id": "baf7b092-f86c-42d9-9141-a04d3425244a",
+      "customer_id": "cd16e09a-699a-4ced-8077-6bc5821b0180",
+      "amount": 6746.26,
+      "items": [
+        "Cap",
+        "Kurta",
+        "Sandals"
+      ],
+      "status": "returned",
+      "created_at": "2025-05-10"
+    },
+    {
+      "id": "edfe3598-f03b-41ab-a932-18d8f07d366e",
+      "customer_id": "cd16e09a-699a-4ced-8077-6bc5821b0180",
+      "amount": 2391.67,
+      "items": [
+        "Backpack"
+      ],
+      "status": "completed",
+      "created_at": "2024-12-13"
+    },
+    {
+      "id": "cf9ae58f-d534-4674-811b-8cdd67b07a23",
+      "customer_id": "1865132d-a2f6-4895-abfc-031f17987842",
+      "amount": 2382.63,
+      "items": [
+        "Perfume"
+      ],
+      "status": "completed",
+      "created_at": "2023-01-08"
+    },
+    {
+      "id": "aa6ef217-ae29-48b3-90ca-a5b302332a6d",
+      "customer_id": "fea3d8cc-0a22-4622-8aed-541fc690159f",
+      "amount": 2299.55,
+      "items": [
+        "Coffee Mug",
+        "Kurta"
+      ],
+      "status": "pending",
+      "created_at": "2025-02-15"
+    },
+    {
+      "id": "84251b88-ab56-4b94-86f0-8eee53509e94",
+      "customer_id": "e552ad5b-5dd7-4f52-b94a-d5c945c6c8d9",
+      "amount": 3215.47,
+      "items": [
+        "Socks"
+      ],
+      "status": "returned",
+      "created_at": "2023-08-20"
+    },
+    {
+      "id": "f1d1113a-357d-408a-9e62-76b4e869f43c",
+      "customer_id": "6da898e0-1c15-47e5-a401-52fec536b84d",
+      "amount": 3037.94,
+      "items": [
+        "Sneakers",
+        "Watch"
+      ],
+      "status": "completed",
+      "created_at": "2024-05-07"
+    },
+    {
+      "id": "24ab37e5-ef63-4415-bc7b-5f7255c1baf0",
+      "customer_id": "d5d7b295-4093-49f2-8c44-668442d8528a",
+      "amount": 1831.59,
+      "items": [
+        "Cap"
+      ],
+      "status": "completed",
+      "created_at": "2024-05-16"
+    },
+    {
+      "id": "1ae250f7-d42d-4bf3-8f72-c4d24cf615b8",
+      "customer_id": "ab66f5e6-5c23-4ae3-8c27-024d69c0daff",
+      "amount": 4770.22,
+      "items": [
+        "Perfume",
+        "Sunglasses"
+      ],
+      "status": "completed",
+      "created_at": "2024-10-18"
+    },
+    {
+      "id": "26f46e9c-97e6-4e22-8d5d-57fe7f6aaa98",
+      "customer_id": "d5d7b295-4093-49f2-8c44-668442d8528a",
+      "amount": 9491.02,
+      "items": [
+        "Jacket",
+        "Saree",
+        "Jeans",
+        "Belt"
+      ],
+      "status": "completed",
+      "created_at": "2023-12-25"
+    },
+    {
+      "id": "698f891a-e53a-4304-a6bd-ef0d7ffbf355",
+      "customer_id": "b830b74c-7271-40ac-854c-5cb413bb2255",
+      "amount": 6841.35,
+      "items": [
+        "Backpack",
+        "Jacket",
+        "Saree",
+        "Coffee Mug"
+      ],
+      "status": "completed",
+      "created_at": "2024-09-06"
+    }
+  ],
+  "metadata": {
+    "cleaned_at": "2026-06-12T15:17:54.447577",
+    "original_customers": 50,
+    "clean_customers": 46,
+    "original_orders": 200,
+    "clean_orders": 178,
+    "issues_fixed": 64
+  }
+}

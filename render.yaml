@@ -1,0 +1,47 @@
+services:
+  # 1. Mock Channel Service
+  - type: web
+    name: xeno-mock-channel
+    env: docker
+    dockerfilePath: ./mock_channel_service/Dockerfile
+    region: oregon
+    plan: free
+    envVars:
+      - key: MIN_DELAY
+        value: "2"
+      - key: MAX_DELAY
+        value: "10"
+
+  # 2. CRM Backend Service
+  - type: web
+    name: xeno-backend
+    env: docker
+    dockerfilePath: ./backend/Dockerfile
+    region: oregon
+    plan: free
+    envVars:
+      - key: MOCK_CHANNEL_URL
+        fromService:
+          type: web
+          name: xeno-mock-channel
+          envVarKey: RENDER_EXTERNAL_URL
+      - key: DATABASE_URL
+        value: "sqlite:///./xeno_crm.db"
+      - key: OPENROUTER_API_KEY
+        sync: false # You must set this manually in the Render dashboard!
+
+  # 3. Next.js Frontend Service
+  - type: web
+    name: xeno-frontend
+    env: node
+    rootDir: frontend
+    region: oregon
+    plan: free
+    buildCommand: npm install && npm run build
+    startCommand: npm start
+    envVars:
+      - key: NEXT_PUBLIC_API_URL
+        fromService:
+          type: web
+          name: xeno-backend
+          envVarKey: RENDER_EXTERNAL_URL
