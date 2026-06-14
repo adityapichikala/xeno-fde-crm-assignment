@@ -22,7 +22,7 @@ OPENROUTER_MODEL = os.getenv("OPENROUTER_MODEL", "google/gemini-2.0-flash-exp:fr
 # OpenRouter uses OpenAI-compatible API format
 client = AsyncOpenAI(
     base_url="https://openrouter.ai/api/v1",
-    api_key=OPENROUTER_API_KEY,
+    api_key=OPENROUTER_API_KEY or "dummy_key_to_prevent_startup_crash",
 )
 
 # Database schema context for the LLM
