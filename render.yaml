@@ -3,7 +3,7 @@ services:
   - type: web
     name: xeno-mock-channel
     env: docker
-    dockerfilePath: ./Dockerfile
+    dockerfilePath: ./mock_channel_service/Dockerfile
     dockerContext: ./mock_channel_service
     region: oregon
     plan: free
@@ -17,7 +17,7 @@ services:
   - type: web
     name: xeno-backend
     env: docker
-    dockerfilePath: ./Dockerfile
+    dockerfilePath: ./backend/Dockerfile
     dockerContext: ./backend
     region: oregon
     plan: free
